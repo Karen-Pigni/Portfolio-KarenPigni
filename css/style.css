@@ -13,6 +13,10 @@ body {
   line-height: 1.8;
   color: rgba(0, 0, 0, 0.7);
 }
+
+.disclaimer{
+  display: none;
+}
 @media screen and (max-width: 992px){
   body {
     font-size: 16px; 
