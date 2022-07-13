@@ -61,7 +61,7 @@
             <h1 id="colorlib-logo">
               <a href="index.php">Karen B. Pigni</a>
             </h1>
-            <span class="position"><strong> DESARROLLO WEB - LIC. EN EDUCACIÓN</strong></span>
+            <span class="position"><strong> DESARROLLO WEB - PSICOPEDAGOGIA</strong></span>
           </div>
           <nav id="colorlib-main-menu" role="navigation" class="navbar">
             <div id="navbar" class="collapse">
@@ -95,7 +95,7 @@
                       <div class="col-md-12 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text text-center">
                         <div class="slider-text-inner js-fullheight">
                           <div class="desc">
-                            <h1>Desarrollo Web - Lic. en Educación</h1>
+                            <h1>Desarrollo Web - Psicopedagogía</h1>
                             <h2>Me gustan los desafíos y el aprendizaje constante.</h2>
                             <p><a class="btn btn-primary btn-learn" href="CV-Karen Pigni-2022" target="_blank">Tomá asiento y mirá mi CV<i class="icon-download4"></i></a></p>
                           </div>
@@ -379,9 +379,26 @@
                 <div class="col-md-12">
                   <div class="timeline-centered">
 
-                    <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                       <div class="timeline-entry-inner">
                         <div class="timeline-icon color-1">
+                          <!-- <i class="icon-pen2"></i> -->
+                          <img src="img/lapiz.png" alt="" class="lapiz">
+                        </div>
+                        <div class="timeline-label">
+                          <h2>
+                            <a href="#">Tec. en Desarrollo Web Y Aplicaciones Digitales</a>
+                            <span>2022 - Acutualidad</span>
+                          </h2>
+                          <p>Otorgado por ISPC-Instituto Politécnico de Córdoba</p>
+                          <a href="https://www.ispc.edu.ar/" target="_blank"class="btn btn-danger">Ver más</a>
+                        </div>
+                      </div>
+                    </article>
+
+                    <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                      <div class="timeline-entry-inner">
+                        <div class="timeline-icon color-2">
                           <!-- <i class="icon-pen2"></i> -->
                           <img src="img/lapiz.png" alt="" class="lapiz">
                         </div>
@@ -396,22 +413,7 @@
                       </div>
                     </article>
 
-                    <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
-                      <div class="timeline-entry-inner">
-                        <div class="timeline-icon color-2">
-                          <!-- <i class="icon-pen2"></i> -->
-                          <img src="img/lapiz.png" alt="" class="lapiz">
-                        </div>
-                        <div class="timeline-label">
-                          <h2>
-                            <a href="#">Tec. en Programación Informática </a>
-                            <span>2019 - Acutualidad</span>
-                          </h2>
-                          <p>Otorgado por la Universidad de Quilmes</p>
-                          <a href="http://www.unq.edu.ar/carreras/32-tecnicatura-universitaria-en-programaci%C3%B3n-inform%C3%A1tica.php" target="_blank"class="btn btn-danger">Ver más</a>
-                        </div>
-                      </div>
-                    </article>
+
 
                     <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                       <div class="timeline-entry-inner">
@@ -424,7 +426,7 @@
                             <a href="#">Lic. en Educación (CCC)</a>
                             <span>2016 - Actualidad</span>
                           </h2>
-                          <p>Otorgado por la Universidad de Quilmes</p>
+                          <p>Otorgado por la Universidad Nacional de Quilmes</p>
                           <a href=http://www.unq.edu.ar/carreras/83-licenciatura-en-educaci%C3%B3n-ccc.php"" target="_blank" class="btn btn-primary">Ver más</a>
                         </div>
                       </div>
@@ -474,7 +476,7 @@
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingOne">
                           <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Consultorios médicos <small style="color: white"> | 2013 - Actualidad</small></a>
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Consultorios médicos <small style="color: white"> | 2013 - 2019</small></a>
                           </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
@@ -491,27 +493,10 @@
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingTwo">
                           <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Mesa de ayuda - Hepl Desk <small style="color: white"> |2020-2020</small></a>
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseThree">Maestra de Informática <small style="color: white"> | 2014 - 2015</small></a>
                           </h4>
                         </div>
-                        <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
-                          <div class="panel-body">
-                            <div class="row">
-                              <div class="col-md-12">
-                                <p>Me he desempeñado como Mesa de ayuda nivel 1 para la empresa "ENACOM-Telecom" en una pasantía de la cual aprendí el mandejo de documentación, utilización de software para tickets e interacción resolutiva con usuarios.</p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="panel panel-default">
-                        <div class="panel-heading" role="tab" id="headingThree">
-                          <h4 class="panel-title">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Maestra de Informática <small style="color: white"> | 2014 - 2015</small></a>
-                          </h4>
-                        </div>
-                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                           <div class="panel-body">
                             <div class="row">                          
                               <div class="col-md-12">
@@ -521,6 +506,43 @@
                           </div>
                         </div>
                       </div>
+
+                      <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingThree">
+                          <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">Mesa de ayuda - Hepl Desk <small style="color: white"> |2021-2022</small></a>
+                          </h4>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingThree">
+                          <div class="panel-body">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <p>Me he desempeñado como Mesa de ayuda nivel 1 para la empresa "ENACOM-Telecom" en una pasantía y en la empresa "Pixel IT" de las cuales aprendí el manejo de documentación, utilización de software para tickets e interacción resolutiva con usuarios finales.</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFour">
+                          <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="true" aria-controls="collapseFour">Tutoría académica<small style="color: white"> | 2021 - Actualidad</small></a>
+                          </h4>
+                        </div>
+                        <div id="collapseFour" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingFour">
+                          <div class="panel-body">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <p>Me encargo de facilitar y orientar los procesos sociales y cognitivos con la finalidad de obtener resultados totalmente significativos no sólo para el estudiantado, sino también para el conjunto de docentes de la institución.</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+
+
                     </div>
                   </div>
                 </div>
@@ -576,7 +598,7 @@
             <a href="https://github.com/Karen-Pigni" target="_blank"><i class="fa fa-github" style="padding-left: 2rem; color:black"></i></a>
             <a href= "#"><i class="fa fa-upload" style="padding-left: 2rem; color:purple"></i></a>
           </i>
-          <p style="text-align: center;"><span class="far fa-copyright"></span> 2020-2022 All rights reserved. Karen B. Pigni</p>
+          <p style="text-align: center;"><span class="far fa-copyright"></span>All rights reserved. Karen B. Pigni</p>
         </footer>
       </div>
       <!-- end:container-wrap -->
