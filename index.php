@@ -97,7 +97,7 @@
                           <div class="desc">
                             <h1>Desarrollo Web - Psicopedagogía</h1>
                             <h2>Me gustan los desafíos y el aprendizaje constante.</h2>
-                            <p><a class="btn btn-primary btn-learn" href="CV-Karen Pigni-2022" target="_blank">Tomá asiento y mirá mi CV<i class="icon-download4"></i></a></p>
+                            <p><a class="btn btn-primary btn-learn" href="CV-Karen Pigni-2022" target="_blank">Te invito a mirar mi CV<i class="icon-download4"></i></a></p>
                           </div>
                         </div>
                       </div>
@@ -387,7 +387,7 @@
                         </div>
                         <div class="timeline-label">
                           <h2>
-                            <a href="#">Tec. en Desarrollo Web Y Aplicaciones Digitales</a>
+                            <a href="#">Tec. en Desarrollo Web y Aplicaciones Digitales</a>
                             <span>2022 - Acutualidad</span>
                           </h2>
                           <p>Otorgado por ISPC-Instituto Politécnico de Córdoba</p>
@@ -592,8 +592,8 @@
         <footer>
           <div class="text-center">
             <a href="mailto:karen.pigni@gmail.com" target="_blank"><i class="fa fa-envelope" style="color:red"></i></a>
-            <a href="tel:+5491131755173" target="_blank"><i class="fa fa-mobile" style="padding-left: 2rem; color:gray"></i></a>
-            <a href="https://api.whatsapp.com/send?phone=+5491131755173" target="_blank"><i class="fa fa-whatsapp" style="padding-left: 2rem; color:green"></i></a>
+            <a href="tel:+5491123970883" target="_blank"><i class="fa fa-mobile" style="padding-left: 2rem; color:gray"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=+5491123970883" target="_blank"><i class="fa fa-whatsapp" style="padding-left: 2rem; color:green"></i></a>
             <a href="https://www.linkedin.com/in/karen-belen-pigni/" target="_blank"><i class= "fa fa-linkedin" style="padding-left: 2rem; color:blue"></i></a>
             <a href="https://github.com/Karen-Pigni" target="_blank"><i class="fa fa-github" style="padding-left: 2rem; color:black"></i></a>
             <a href= "#"><i class="fa fa-upload" style="padding-left: 2rem; color:purple"></i></a>
