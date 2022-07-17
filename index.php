@@ -97,7 +97,7 @@
                           <div class="desc">
                             <h1>Desarrollo Web - Psicopedagogía</h1>
                             <h2>Me gustan los desafíos y el aprendizaje constante.</h2>
-                            <p><a class="btn btn-primary btn-learn" href="CV-Karen Pigni-2022" target="_blank">Te invito a mirar mi CV<i class="icon-download4"></i></a></p>
+                            <p><a class="btn btn-primary btn-learn" href="CV-Karen Pigni-2022.pdf" target="_blank">Te invito a mirar mi CV<i class="icon-download4"></i></a></p>
                           </div>
                         </div>
                       </div>

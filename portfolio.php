@@ -234,7 +234,7 @@
                         <a href="https://github.com/Karen-Pigni" target="_blank"><i class="fa fa-github" style="padding-left: 2rem; color:black"></i></a>
                         <a href= "#"><i class="fa fa-upload" style="padding-left: 2rem; color:purple"></i></a>
                     </div>
-                    <p style="text-align: center;"><span class="far fa-copyright"></span> 2020-2021 All rights reserved.</p>
+                    <p style="text-align: center;"><span class="far fa-copyright"></span>All rights reserved. Karen B. Pigni</p>
                 </footer>
             </div>
             <!-- end:container-wrap -->
