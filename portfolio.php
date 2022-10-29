@@ -228,8 +228,8 @@
                 <footer>
                     <div class="text-center">
                         <a href="mailto:karen.pigni@gmail.com" target="_blank"><i class="fa fa-envelope" style="color:red"></i></a>
-                        <a href="tel:+5491131755173" target="_blank"><i class="fa fa-mobile" style="padding-left: 2rem; color:gray"></i></a>
-                        <a href="https://api.whatsapp.com/send?phone=+5491131755173" target="_blank"><i class="fa fa-whatsapp" style="padding-left: 2rem; color:green"></i></a>
+                        <a href="tel:+5491128786825" target="_blank"><i class="fa fa-mobile" style="padding-left: 2rem; color:gray"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+5491128786825" target="_blank"><i class="fa fa-whatsapp" style="padding-left: 2rem; color:green"></i></a>
                         <a href="https://www.linkedin.com/in/karen-belen-pigni/" target="_blank"><i class= "fa fa-linkedin" style="padding-left: 2rem; color:blue"></i></a>
                         <a href="https://github.com/Karen-Pigni" target="_blank"><i class="fa fa-github" style="padding-left: 2rem; color:black"></i></a>
                         <a href= "#"><i class="fa fa-upload" style="padding-left: 2rem; color:purple"></i></a>

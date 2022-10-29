@@ -97,7 +97,7 @@
                           <div class="desc">
                             <h1>Desarrollo Web - Psicopedagogía</h1>
                             <h2>Me gustan los desafíos y el aprendizaje constante.</h2>
-                            <p><a class="btn btn-primary btn-learn" href="CV-Karen Pigni-2022.pdf" target="_blank">Te invito a mirar mi CV<i class="icon-download4"></i></a></p>
+                            <p><a class="btn btn-primary btn-learn" href="CV-Karen Pigni.pdf" target="_blank">Te invito a mirar mi CV<i class="icon-download4"></i></a></p>
                           </div>
                         </div>
                       </div>
@@ -120,7 +120,7 @@
                             <div class="max-width">
                               <div class="home-content">
                                 <div class="text-1">Mi nombre es Karen Belén Pigni.</div>
-                                <div class="text-2">Y teóricamente soy <span class="desarrollo typed"></span></div>
+                                <div class="text-2">Soy <span class="desarrollo typed"></span></div>
                               </div>
                             </div>
                           </section>
@@ -592,8 +592,8 @@
         <footer>
           <div class="text-center">
             <a href="mailto:karen.pigni@gmail.com" target="_blank"><i class="fa fa-envelope" style="color:red"></i></a>
-            <a href="tel:+5491123970883" target="_blank"><i class="fa fa-mobile" style="padding-left: 2rem; color:gray"></i></a>
-            <a href="https://api.whatsapp.com/send?phone=+5491123970883" target="_blank"><i class="fa fa-whatsapp" style="padding-left: 2rem; color:green"></i></a>
+            <a href="tel:+5491128786825" target="_blank"><i class="fa fa-mobile" style="padding-left: 2rem; color:gray"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=+5491128786825" target="_blank"><i class="fa fa-whatsapp" style="padding-left: 2rem; color:green"></i></a>
             <a href="https://www.linkedin.com/in/karen-belen-pigni/" target="_blank"><i class= "fa fa-linkedin" style="padding-left: 2rem; color:blue"></i></a>
             <a href="https://github.com/Karen-Pigni" target="_blank"><i class="fa fa-github" style="padding-left: 2rem; color:black"></i></a>
             <a href= "#"><i class="fa fa-upload" style="padding-left: 2rem; color:purple"></i></a>
