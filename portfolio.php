@@ -8,7 +8,7 @@
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link rel="shortcut icon" href="favicon.ico" />
+        <link rel="shortcut icon" href="img/KarenPigni-Logo.png" />
 
         <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet"/>
 
